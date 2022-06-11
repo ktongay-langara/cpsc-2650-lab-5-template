@@ -10,12 +10,18 @@ Check if RabbitMQ server is running at localhost:15672 (default username: guest,
 
 To run the send.js and receive.js files, you need amqplib installed:
 
-```npm install amqplib
+```
+npm install amqplib
+```
 
 Then just run each file as a script, e.g., in bash
 
-```./send.js
+```
+./send.js
+```
 
 or
 
-```node send.js
+```
+node send.js
+```
