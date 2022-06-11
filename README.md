@@ -18,10 +18,12 @@ Then just run each file as a script, e.g., in bash
 
 ```
 ./send.js
+./receive.js
 ```
 
 or
 
 ```
 node send.js
+node receive.js
 ```
